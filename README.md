@@ -39,3 +39,6 @@ The company, VanArsdel, manufactures expensive electronic products that could be
 * Created reports using Pivot table and visualized my reports via charts
 
 * Designed my dashboard with the reports and most important metrics.
+
+# Power BI Dashboard
+![](https://github.com/Devendrasingh8/Sales-and-Marketing-Analysis-for-VanArsdel/blob/main/Sales%20and%20Market%20Share%20Analysis%20Dashboard.JPG)
